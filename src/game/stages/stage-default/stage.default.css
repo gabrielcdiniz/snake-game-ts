@@ -1,0 +1,17 @@
+canvas {
+  padding: 0.3em;
+  border: 0.25em double;
+  border-radius: 0.25em;
+}
+
+#stage-default {
+  border-color: cyan;
+}
+
+canvas.danger {
+  border-color: red !important;
+}
+
+canvas.attention {
+  border-color: gold !important;
+}
